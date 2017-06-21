@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Regression]">
+  <test name="LoginPageTests(failed)">
+    <classes>
+      <class name="com.madhu.uiautomation.login.TC_LoginPage">
+        <methods>
+          <include name="endTest"/>
+          <include name="setUp"/>
+          <include name="tc01_login_ValidCredential"/>
+          <include name="tc03_login_WithoutPassword"/>
+          <include name="tc02_login_InvalidCredentials"/>
+        </methods>
+      </class> <!-- com.madhu.uiautomation.login.TC_LoginPage -->
+    </classes>
+  </test> <!-- LoginPageTests(failed) -->
+</suite> <!-- Failed suite [Regression] -->

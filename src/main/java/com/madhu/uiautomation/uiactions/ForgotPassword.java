@@ -1,11 +1,16 @@
 package com.madhu.uiautomation.uiactions;
 
+import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Reporter;
+
 
 public class ForgotPassword {
+	
+	public static final Logger log =Logger.getLogger(ForgotPassword.class.getName());
 
 	WebDriver driver;
 
@@ -35,4 +40,11 @@ public class ForgotPassword {
 	}
 
 
+
+
+public void log(String data){
+	log.info(data);
+	Reporter.log(data);
+	
+}
 }

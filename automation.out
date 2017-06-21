@@ -1,0 +1,55 @@
+2017-06-20 23:06:59 INFO  Loginpage:48 - Entered user name at [[FirefoxDriver: firefox on MAC (c7987203-08e4-544a-8be4-539d2a229cd3)] -> id: username]
+2017-06-20 23:06:59 INFO  Loginpage:50 - entered password at [[FirefoxDriver: firefox on MAC (c7987203-08e4-544a-8be4-539d2a229cd3)] -> xpath: .//*[@id='password']]
+2017-06-20 23:07:16 INFO  Loginpage:52 - clck on login button Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='Login']'
+2017-06-20 23:07:16 INFO  Homepage:47 - waiting for Home Page load
+2017-06-20 23:07:16 INFO  Homepage:48 - Logged User Name is madhushri Bhat
+2017-06-20 23:11:54 INFO  Loginpage:48 - Entered user name at [[FirefoxDriver: firefox on MAC (fbd141b3-f4e9-f445-8ee0-158e08c716c2)] -> id: username]
+2017-06-20 23:11:54 INFO  Loginpage:50 - entered password at [[FirefoxDriver: firefox on MAC (fbd141b3-f4e9-f445-8ee0-158e08c716c2)] -> xpath: .//*[@id='password']]
+2017-06-20 23:12:11 INFO  Loginpage:52 - clck on login button Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='Login']'
+2017-06-20 23:12:11 INFO  Homepage:47 - waiting for Home Page load
+2017-06-20 23:12:11 INFO  Homepage:48 - Logged User Name is madhushri Bhat
+2017-06-20 23:17:16 INFO  Loginpage:48 - Entered user name at [[FirefoxDriver: firefox on MAC (002108b9-d47a-f94b-a5d5-a9276bdadf05)] -> id: username]
+2017-06-20 23:17:17 INFO  Loginpage:50 - entered password at [[FirefoxDriver: firefox on MAC (002108b9-d47a-f94b-a5d5-a9276bdadf05)] -> xpath: .//*[@id='password']]
+2017-06-20 23:17:33 INFO  Loginpage:52 - clck on login button Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='Login']'
+2017-06-20 23:17:33 INFO  Homepage:49 - waiting for Home Page load
+2017-06-20 23:17:33 INFO  Homepage:50 - Logged User Name is madhushri Bhat
+2017-06-20 23:18:27 INFO  Loginpage:50 - Entered user name at [[FirefoxDriver: firefox on MAC (02beac89-1062-794f-b963-694c994d96b5)] -> id: username]
+2017-06-20 23:18:27 INFO  Loginpage:52 - entered password at [[FirefoxDriver: firefox on MAC (02beac89-1062-794f-b963-694c994d96b5)] -> xpath: .//*[@id='password']]
+2017-06-20 23:18:43 INFO  Loginpage:54 - clck on login button Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='Login']'
+2017-06-20 23:18:44 INFO  Homepage:49 - waiting for Home Page load
+2017-06-20 23:18:44 INFO  Homepage:50 - Logged User Name is madhushri Bhat
+2017-06-20 23:20:34 INFO  Loginpage:50 - Entered user name at [[FirefoxDriver: firefox on MAC (0d358b26-fa13-e144-a025-c69ec628714d)] -> id: username]
+2017-06-20 23:20:34 INFO  Loginpage:52 - entered password at [[FirefoxDriver: firefox on MAC (0d358b26-fa13-e144-a025-c69ec628714d)] -> xpath: .//*[@id='password']]
+2017-06-20 23:20:51 INFO  Loginpage:54 - clck on login button Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='Login']'
+2017-06-20 23:20:51 INFO  Homepage:49 - waiting for Home Page load
+2017-06-20 23:20:51 INFO  Homepage:50 - Logged User Name is madhushri Bhat
+2017-06-20 23:20:52 INFO  Loginpage:50 - Entered user name at [[FirefoxDriver: firefox on MAC (0d358b26-fa13-e144-a025-c69ec628714d)] -> id: username]
+2017-06-20 23:20:52 INFO  Loginpage:52 - entered password at [[FirefoxDriver: firefox on MAC (0d358b26-fa13-e144-a025-c69ec628714d)] -> xpath: .//*[@id='password']]
+2017-06-20 23:20:52 INFO  Loginpage:54 - clck on login button [[FirefoxDriver: firefox on MAC (0d358b26-fa13-e144-a025-c69ec628714d)] -> xpath: .//*[@id='Login']]
+2017-06-20 23:24:56 INFO  Loginpage:50 - Entered user name at [[FirefoxDriver: firefox on MAC (36b6467d-16c7-3d45-8786-778f1e1e07de)] -> id: username]
+2017-06-20 23:24:57 INFO  Loginpage:52 - entered password at [[FirefoxDriver: firefox on MAC (36b6467d-16c7-3d45-8786-778f1e1e07de)] -> xpath: .//*[@id='password']]
+2017-06-20 23:25:13 INFO  Loginpage:54 - clck on login button Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='Login']'
+2017-06-20 23:25:13 INFO  Homepage:49 - waiting for Home Page load
+2017-06-20 23:25:13 INFO  Homepage:50 - Logged User Name is madhushri Bhat
+2017-06-20 23:25:15 INFO  Loginpage:50 - Entered user name at [[FirefoxDriver: firefox on MAC (36b6467d-16c7-3d45-8786-778f1e1e07de)] -> id: username]
+2017-06-20 23:25:15 INFO  Loginpage:52 - entered password at [[FirefoxDriver: firefox on MAC (36b6467d-16c7-3d45-8786-778f1e1e07de)] -> xpath: .//*[@id='password']]
+2017-06-20 23:25:15 INFO  Loginpage:54 - clck on login button [[FirefoxDriver: firefox on MAC (36b6467d-16c7-3d45-8786-778f1e1e07de)] -> xpath: .//*[@id='Login']]
+2017-06-20 23:29:07 INFO  Loginpage:50 - Entered user name at [[FirefoxDriver: firefox on MAC (5542577a-65b0-784a-80e0-8224fcd98218)] -> id: username]
+2017-06-20 23:29:07 INFO  Loginpage:52 - entered password at [[FirefoxDriver: firefox on MAC (5542577a-65b0-784a-80e0-8224fcd98218)] -> xpath: .//*[@id='password']]
+2017-06-20 23:29:24 INFO  Loginpage:54 - clck on login button Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='Login']'
+2017-06-20 23:29:24 INFO  Homepage:49 - waiting for Home Page load
+2017-06-20 23:29:24 INFO  Homepage:50 - Logged User Name is madhushri Bhat
+2017-06-20 23:29:25 INFO  Loginpage:50 - Entered user name at [[FirefoxDriver: firefox on MAC (5542577a-65b0-784a-80e0-8224fcd98218)] -> id: username]
+2017-06-20 23:29:25 INFO  Loginpage:52 - entered password at [[FirefoxDriver: firefox on MAC (5542577a-65b0-784a-80e0-8224fcd98218)] -> xpath: .//*[@id='password']]
+2017-06-20 23:29:26 INFO  Loginpage:54 - clck on login button [[FirefoxDriver: firefox on MAC (5542577a-65b0-784a-80e0-8224fcd98218)] -> xpath: .//*[@id='Login']]
+2017-06-20 23:33:54 INFO  Loginpage:50 - Entered user name at [[FirefoxDriver: firefox on MAC (e5a2b433-ac34-4943-857d-a360ad6e418c)] -> id: username]
+2017-06-20 23:33:54 INFO  Loginpage:52 - entered password at [[FirefoxDriver: firefox on MAC (e5a2b433-ac34-4943-857d-a360ad6e418c)] -> xpath: .//*[@id='password']]
+2017-06-20 23:34:11 INFO  Loginpage:54 - clck on login button Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='Login']'
+2017-06-20 23:34:11 INFO  Homepage:49 - waiting for Home Page load
+2017-06-20 23:34:11 INFO  Homepage:50 - Logged User Name is madhushri Bhat
+2017-06-20 23:34:12 INFO  Loginpage:50 - Entered user name at [[FirefoxDriver: firefox on MAC (e5a2b433-ac34-4943-857d-a360ad6e418c)] -> id: username]
+2017-06-20 23:34:12 INFO  Loginpage:52 - entered password at [[FirefoxDriver: firefox on MAC (e5a2b433-ac34-4943-857d-a360ad6e418c)] -> xpath: .//*[@id='password']]
+2017-06-20 23:34:13 INFO  Loginpage:54 - clck on login button [[FirefoxDriver: firefox on MAC (e5a2b433-ac34-4943-857d-a360ad6e418c)] -> xpath: .//*[@id='Login']]
+2017-06-20 23:34:13 INFO  Loginpage:50 - Entered user name at [[FirefoxDriver: firefox on MAC (e5a2b433-ac34-4943-857d-a360ad6e418c)] -> id: username]
+2017-06-20 23:34:14 INFO  Loginpage:52 - entered password at [[FirefoxDriver: firefox on MAC (e5a2b433-ac34-4943-857d-a360ad6e418c)] -> xpath: .//*[@id='password']]
+2017-06-20 23:34:20 INFO  Loginpage:54 - clck on login button [[FirefoxDriver: firefox on MAC (e5a2b433-ac34-4943-857d-a360ad6e418c)] -> xpath: .//*[@id='Login']]

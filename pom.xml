@@ -9,8 +9,13 @@
 <dependency>
         <groupId>org.seleniumhq.selenium</groupId>
         <artifactId>selenium-java</artifactId>
-        <version>3.4.0</version>
+        <version>2.53.0</version>
 </dependency> 
+<dependency>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-collections4</artifactId>
+    <version>4.1</version>
+</dependency>
 <dependency>
   <groupId>org.testng</groupId>
   <artifactId>testng</artifactId>
@@ -20,8 +25,13 @@
 <dependency>
     <groupId>org.apache.poi</groupId>
     <artifactId>poi</artifactId>
-    <version>3.12</version>
-</dependency>   
+    <version>3.15</version>
+</dependency> 
+<dependency>
+			<groupId>com.relevantcodes</groupId>
+			<artifactId>extentreports</artifactId>
+			<version>2.40.2</version>
+		</dependency>  
 <dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi-ooxml</artifactId>

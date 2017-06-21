@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Regression"></suite>
-<test name="TC_01_login">
-
+<suite name="Regression">
+<test name="LoginPageTests">
 <classes>
-<class name="com.madhu.uiautomation.login.TC_01_login">
-</class>
-<class>
+<class name="com.madhu.uiautomation.login.TC_LoginPage">
 </class>
 </classes>
-
-
-
-
-
-
-
+<!--  <listeners>-->
+<!--  <listener class-name="com.madhu.uiautomation.config.CustomListenforScreenshots"></listener>  -->
+<!-- <listener class-name="com.madhu.uiautomation.config.EventListen"></listener>-->
+<!--<listener class-name="com.madhu.uiautomation.config.Retry"></listener>-->
+<!--  </listeners>-->
 </test>
+</suite>
+
+

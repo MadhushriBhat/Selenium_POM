@@ -8,11 +8,8 @@ import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-/**
- * 
- * @author Bhanu Pratap
- *
- */
+
+
 public class Excel_Reader {
 	
 	public FileOutputStream fileOut = null;
@@ -43,12 +40,15 @@ public class Excel_Reader {
 	public String[][] getDataFromSheet(String sheetName, String ExcelName) {
 		String dataSets[][] = null;
 			try {
+				System.out.println("Sheet name & excel name is "+sheetName+" " +ExcelName);
 				// get sheet from excel workbook
 				XSSFSheet sheet = workbook.getSheet(sheetName);
 				// count number of active tows
 				int totalRow = sheet.getLastRowNum() + 1;
+				System.out.println("NO of rows"+ totalRow);
 				// count number of active columns in row
 				int totalColumn = sheet.getRow(0).getLastCellNum();
+				System.out.println("NO of column"+ totalColumn);
 				// Create array of rows and column
 				dataSets = new String[totalRow - 1][totalColumn];
 				// Run for loop and store data in 2D array
@@ -75,7 +75,7 @@ public class Excel_Reader {
 				}
 				return dataSets;
 			} catch (Exception e) {
-				System.out.println("Exception in reading Xlxs file" + e.getMessage());
+				System.out.println("Exception in reading Xlsx file" + e.getMessage());
 				e.printStackTrace();
 			}
 			return dataSets;

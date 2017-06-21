@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39118" started-at="2017-06-21T06:33:43Z" finished-at="2017-06-21T06:34:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39118" started-at="2017-06-21T06:33:43Z" finished-at="2017-06-21T06:34:23Z">
+      <class name="com.madhu.uiautomation.login.TC_LoginPage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.madhu.uiautomation.login.TC_LoginPage@4c70fda8]" name="setUp" is-config="true" duration-ms="9557" started-at="2017-06-20T23:33:43Z" finished-at="2017-06-20T23:33:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.madhu.uiautomation.login.TC_LoginPage@4c70fda8]" name="beforeMethod" is-config="true" duration-ms="5" started-at="2017-06-20T23:33:54Z" finished-at="2017-06-20T23:33:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.madhu.uiautomation.login.TC_LoginPage.tc01_login_ValidCredential(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tc01_login_ValidCredential(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.madhu.uiautomation.login.TC_LoginPage@4c70fda8]" name="tc01_login_ValidCredential" duration-ms="17657" started-at="2017-06-20T23:33:54Z" data-provider="validdata" finished-at="2017-06-20T23:34:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[madhu@profess.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[seleniumtest5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[madhushri Bhat]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01_login_ValidCredential -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.madhu.uiautomation.login.TC_LoginPage@4c70fda8]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-06-20T23:34:11Z" finished-at="2017-06-20T23:34:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc01_login_ValidCredential status=SUCCESS method=TC_LoginPage.tc01_login_ValidCredential(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.madhu.uiautomation.login.TC_LoginPage@4c70fda8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.madhu.uiautomation.login.TC_LoginPage@4c70fda8]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-06-20T23:34:11Z" finished-at="2017-06-20T23:34:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.madhu.uiautomation.login.TC_LoginPage.tc02_login_InvalidCredentials(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tc02_login_InvalidCredentials(java.lang.String, java.lang.String)[pri:0, instance:com.madhu.uiautomation.login.TC_LoginPage@4c70fda8]" name="tc02_login_InvalidCredentials" duration-ms="1540" started-at="2017-06-20T23:34:11Z" data-provider="invaliddata" finished-at="2017-06-20T23:34:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[madhu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[24356.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_login_InvalidCredentials -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.madhu.uiautomation.login.TC_LoginPage@4c70fda8]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-06-20T23:34:13Z" finished-at="2017-06-20T23:34:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc02_login_InvalidCredentials status=SUCCESS method=TC_LoginPage.tc02_login_InvalidCredentials(java.lang.String, java.lang.String)[pri:0, instance:com.madhu.uiautomation.login.TC_LoginPage@4c70fda8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.madhu.uiautomation.login.TC_LoginPage@4c70fda8]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-06-20T23:34:13Z" finished-at="2017-06-20T23:34:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.madhu.uiautomation.login.TC_LoginPage.tc03_login_WithoutPassword()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tc03_login_WithoutPassword()[pri:0, instance:com.madhu.uiautomation.login.TC_LoginPage@4c70fda8]" name="tc03_login_WithoutPassword" duration-ms="9026" started-at="2017-06-20T23:34:13Z" finished-at="2017-06-20T23:34:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03_login_WithoutPassword -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.madhu.uiautomation.login.TC_LoginPage@4c70fda8]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-06-20T23:34:22Z" finished-at="2017-06-20T23:34:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc03_login_WithoutPassword status=SUCCESS method=TC_LoginPage.tc03_login_WithoutPassword()[pri:0, instance:com.madhu.uiautomation.login.TC_LoginPage@4c70fda8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.madhu.uiautomation.login.TC_LoginPage@4c70fda8]" name="endTest" is-config="true" duration-ms="510" started-at="2017-06-20T23:34:22Z" finished-at="2017-06-20T23:34:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.madhu.uiautomation.login.TC_LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
